@@ -15,6 +15,7 @@ Project is based on Pixel Experience Plus version and getting improvements and n
 
 - Add fwb camera patches back from VoidUI-Tiramisu
 - Add back Monet customization settings
+- Add back ~~Data Switch~~ (done), FPS Info, CPU Info tiles
 - Add disabling gesture API back for gamespace
 - Allow limiting AOD & ambient display refresh rate
 - ~~Enable new wallpaper picker menu~~ Done
