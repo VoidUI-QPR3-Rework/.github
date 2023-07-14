@@ -11,6 +11,14 @@ Project is based on Pixel Experience Plus version and getting improvements and n
 - [Platform Manifest](https://github.com/VoidUI-QPR3-Rework/manifest)
 - [Our Official Devices](https://github.com/VoidUI-Devices)
 
+## TODOs (Most of them removed because of conflicts)
+
+- Add fwb camera patches back from VoidUI-Tiramisu
+- Add back Monet customization settings
+- Add disabling gesture API back for gamespace
+- Enable new wallpaper picker menu
+- Update pixel charger animation
+
 ## Additionally - Can check and improve Translations to your main Language:
 - [Crowdin Settings Translations](https://crwd.in/voidui-tiramisu)
 - [Crowdin Frameworks Translations](https://crwd.in/voidui-tiramisu-frameworks)
