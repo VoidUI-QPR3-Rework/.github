@@ -1,14 +1,14 @@
 ![VoidUI_Welcome_logo](https://github.com/VoidUI-Tiramisu/.github/assets/34755141/f931e6a7-1370-417a-b8e8-8d2a8ab0c347)
 
 ### Welcome to VoidUI Tiramisu Project
+### This is an UNOFFICIAL fork
 ### Based on Android Open Source Releases 13.x
-### This is a rebase for QPR3 by @MrErenK
 ### Only for testing for now
 
 Project is based on Pixel Experience Plus version and getting improvements and new features from time to time
 
 ## Repositories that you may need to check get started with our Project:
-- [Platform Manifest](https://github.com/VoidUI-QPR3-Rework/manifest)
+- [Platform Manifest](https://github.com/VoidUI-T-Unofficial/manifest)
 - [Our Official Devices](https://github.com/VoidUI-Devices)
 
 ## TODOs (Most of them removed because of conflicts)
