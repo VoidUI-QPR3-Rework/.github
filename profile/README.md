@@ -2,11 +2,13 @@
 
 ### Welcome to VoidUI Tiramisu Project
 ### Based on Android Open Source Releases 13.x
+### This is a rebase for QPR3 by @MrErenK
+### Only for testing for now
 
 Project is based on Pixel Experience Plus version and getting improvements and new features from time to time
 
 ## Repositories that you may need to check get started with our Project:
-- [Platform Manifest](https://github.com/VoidUI-Tiramisu/manifest)
+- [Platform Manifest](https://github.com/VoidUI-QPR3-Rework/manifest)
 - [Our Official Devices](https://github.com/VoidUI-Devices)
 
 ## Additionally - Can check and improve Translations to your main Language:
