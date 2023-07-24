@@ -2,6 +2,7 @@
 
 ### Welcome to VoidUI Tiramisu Project
 ### This is an UNOFFICIAL fork
+### Discontinued. DON'T BUILD
 ### Based on Android Open Source Releases 13.x
 ### Only for testing for now
 
@@ -10,15 +11,6 @@ Project is based on Pixel Experience Plus version and getting improvements and n
 ## Repositories that you may need to check get started with our Project:
 - [Platform Manifest](https://github.com/VoidUI-T-Unofficial/manifest)
 - [Our Official Devices](https://github.com/VoidUI-Devices)
-
-## TODOs (Most of them removed because of conflicts)
-
-- Add fwb camera patches back from VoidUI-Tiramisu
-- Add back Monet customization settings
-- Add back ~~Data Switch~~ (done), FPS Info, CPU Info tiles
-- Add disabling gesture API back for gamespace
-- Allow limiting AOD & ambient display refresh rate
-- ~~Enable new wallpaper picker menu~~ Done
 
 ## Additionally - Can check and improve Translations to your main Language:
 - [Crowdin Settings Translations](https://crwd.in/voidui-tiramisu)
